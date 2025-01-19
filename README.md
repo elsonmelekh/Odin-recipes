@@ -9,7 +9,6 @@
     <hr>
     <h3>This repository aims to put into practice what has been learned in the HTML section of the odin project</h3>
     <br>
-    <p>I've learned how to link webpages together using the html anchor tag</p>
     
 </body>
 </html>
